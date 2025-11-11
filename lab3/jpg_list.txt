@@ -1,0 +1,1702 @@
+﻿
+
+    Directory: C:\Windows\WinSxS\arm64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e75465b760b7f0
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          22500 ARM64_ASPdotNET_logo.jpg                                               
+-a----          4/1/2024  11:43 AM           8260 ARM64_darkBlue_GRAD.jpg                                                
+-a----          4/1/2024  11:43 AM           1409 ARM64_help.jpg                                                         
+-a----          4/1/2024  11:43 AM             49 ARM64_security_watermark.jpg                                           
+-a----          4/1/2024  11:43 AM           8683 ARM64_topGradRepeat.jpg                                                
+
+
+    Directory: C:\Windows\Microsoft.NET\FrameworkArm64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM          22500 ASPdotNET_logo.jpg                                                     
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM          22500 ASPdotNET_logo.jpg                                                     
+
+
+    Directory: C:\Windows\WinSxS\arm64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e75465b760b7f0
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          22500 ASPdotNET_logo.jpg                                                     
+
+
+    Directory: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          22500 ASPdotNET_logo.jpg                                                     
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM          22500 ASPdotNET_logo.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\SystemApps\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         385462 copilot-upsell.jpg                                                     
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.5074_none_fb2c3821214a5787\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         385462 copilot-upsell.jpg                                                     
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb72592187b333\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         385462 copilot-upsell.jpg                                                     
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.4202_none_fb0fc1ed2160ad9f\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         385462 copilot-upsell.jpg                                                     
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           8260 darkBlue_GRAD.jpg                                                      
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           8260 darkBlue_GRAD.jpg                                                      
+
+
+    Directory: C:\Windows\Microsoft.NET\FrameworkArm64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           8260 darkBlue_GRAD.jpg                                                      
+
+
+    Directory: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM           8260 darkBlue_GRAD.jpg                                                      
+
+
+    Directory: C:\Windows\WinSxS\arm64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e75465b760b7f0
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM           8260 darkBlue_GRAD.jpg                                                      
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64.x86_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.4202_none_4cd619b283626bd1
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:51 PM           2979 DMR_120.jpg                                                            
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64.x86_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.5074_none_4cf28fe6834c15b9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:51 PM           2979 DMR_120.jpg                                                            
+-a----         3/28/2024   3:48 PM           1220 DMR_48.jpg                                                             
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64.x86_microsoft-windows-mediaplayer-core_31bf3856ad364e35_10.0.26100.4202_none_4cd619b283626bd1
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:48 PM           1220 DMR_48.jpg                                                             
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          27588 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          53427 GalleryColdStateLeft.jpg                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.4202_none_ed18676e43b7d2ec\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.FileExp_cw5n1h2txyewy\FileExplorerExtensions\Assets\images\c
+    ontrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6899_none_41ad591a729c5b19\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.5074_none_ed34dda243a17cd4\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.6584_none_41cd3a7c72846dca\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-white
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-sxs_31bf3856ad364e35_10.0.26100.4343_none_41deec287277bc9d\54792954
+    .Filons\FileExplorerExtensions\Assets\images\contrast-black
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\SystemApps\SxS\MicrosoftWindows.54792954.Filons_cw5n1h2txyewy\FileExplorerExtensions\Assets\ima
+    ges\contrast-standard\theme-light
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          6/7/2025   6:34 PM          44235 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-fileexp_31bf3856ad364e35_10.0.26100.6725_none_ece417da43ded880\File
+    Exp\FileExplorerExtensions\Assets\images\contrast-standard\theme-dark
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          44445 GalleryColdStateRight.jpg                                              
+
+
+    Directory: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM           1409 help.jpg                                                               
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           1409 help.jpg                                                               
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           1409 help.jpg                                                               
+
+
+    Directory: C:\Windows\Microsoft.NET\FrameworkArm64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           1409 help.jpg                                                               
+
+
+    Directory: C:\Windows\WinSxS\arm64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e75465b760b7f0
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM           1409 help.jpg                                                               
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2791601 image_0.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8fc391a67d841\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2791601 image_0.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d4bcd1a40d2ad\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2791601 image_0.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849c2011a2a7c95\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2791601 image_0.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8fc391a67d841\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2136665 image_1.jpg                                                            
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2136665 image_1.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d4bcd1a40d2ad\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2136665 image_1.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849c2011a2a7c95\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        2136665 image_1.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d4bcd1a40d2ad\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1860845 image_2.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8fc391a67d841\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1860845 image_2.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849c2011a2a7c95\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1860845 image_2.jpg                                                            
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1860845 image_2.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.4202_none_c82d4bcd1a40d2ad\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1945591 image_3.jpg                                                            
+
+
+    Directory: C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1945591 image_3.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.5074_none_c849c2011a2a7c95\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1945591 image_3.jpg                                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-desktop_31bf3856ad364e35_10.0.26100.6725_none_c7f8fc391a67d841\CBS\
+    DesktopSpotlight\Assets\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1945591 image_3.jpg                                                            
+
+
+    Directory: C:\Windows\Web\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1602752 img0.jpg                                                               
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-s..l-wallpaper-windows_31bf3856ad364e35_10.0.26100.1_none_d805d6cf18fe4e00
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1602752 img0.jpg                                                               
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-s..paper-windows-crops_31bf3856ad364e35_10.0.26100.1_none_8ddab910883632c2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         542091 img0_1920x1200.jpg                                                     
+
+
+    Directory: C:\Windows\Web\4K\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         542091 img0_1920x1200.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.26100.1_none_da0a742e61fe4c11
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:42 AM        1033330 img100.jpg                                                             
+
+
+    Directory: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:42 AM        1033330 img100.jpg                                                             
+-a----          4/1/2024  11:43 AM         833851 img101.jpg                                                             
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.26100.1_none_da0a742e61fe4c11
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         833851 img101.jpg                                                             
+
+
+    Directory: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1389605 img102.jpg                                                             
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.26100.1_none_da0a742e61fe4c11
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1389605 img102.jpg                                                             
+-a----          4/1/2024  11:43 AM        1073197 img103.jpg                                                             
+
+
+    Directory: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1073197 img103.jpg                                                             
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.26100.1_none_da0a742e61fe4c11
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         680031 img104.jpg                                                             
+
+
+    Directory: C:\Windows\Web\Screen
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         680031 img104.jpg                                                             
+-a----          4/1/2024  11:43 AM          36632 img105.jpg                                                             
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..nbackgrounds-client_31bf3856ad364e35_10.0.26100.1_none_da0a742e61fe4c11
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          36632 img105.jpg                                                             
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.26100.1_none_3eef7a85332a3051
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1602752 img14.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\Spotlight
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1602752 img14.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1383556 img19.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-s..l-wallpaper-windows_31bf3856ad364e35_10.0.26100.1_none_d805d6cf18fe4e00
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1383556 img19.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-s..paper-windows-crops_31bf3856ad364e35_10.0.26100.1_none_8ddab910883632c2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         518265 img19_1920x1200.jpg                                                    
+
+
+    Directory: C:\Windows\Web\4K\Wallpaper\Windows
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         518265 img19_1920x1200.jpg                                                    
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         826734 img20.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.26100.1_none_d3c96e270d7f4fa9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         826734 img20.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         833851 img21.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.26100.1_none_d3c96e270d7f4fa9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         833851 img21.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         760748 img22.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.26100.1_none_d3c96e270d7f4fa9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         760748 img22.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeA
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         907112 img23.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themea_31bf3856ad364e35_10.0.26100.1_none_d3c96e270d7f4fa9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         907112 img23.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.26100.1_none_d3c9575f0d7f694a
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1150704 img24.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1150704 img24.jpg                                                              
+-a----          4/1/2024  11:43 AM        1019877 img25.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.26100.1_none_d3c9575f0d7f694a
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1019877 img25.jpg                                                              
+-a----          4/1/2024  11:43 AM         985873 img26.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         985873 img26.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themeb_31bf3856ad364e35_10.0.26100.1_none_d3c9575f0d7f694a
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1060216 img27.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeB
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1060216 img27.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1111289 img28.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.26100.1_none_d3c940970d7f82eb
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1111289 img28.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1221892 img29.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.26100.1_none_d3c940970d7f82eb
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1221892 img29.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1068913 img30.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.26100.1_none_d3c940970d7f82eb
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1068913 img30.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeC
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1156806 img31.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themec_31bf3856ad364e35_10.0.26100.1_none_d3c940970d7f82eb
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1156806 img31.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeD
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1077710 img32.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themed_31bf3856ad364e35_10.0.26100.1_none_d3c929cf0d7f9c8c
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1077710 img32.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeD
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1076822 img33.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themed_31bf3856ad364e35_10.0.26100.1_none_d3c929cf0d7f9c8c
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1076822 img33.jpg                                                              
+-a----          4/1/2024  11:43 AM         989305 img34.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\ThemeD
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         989305 img34.jpg                                                              
+-a----          4/1/2024  11:43 AM        1087653 img35.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-shell-wallpaper-themed_31bf3856ad364e35_10.0.26100.1_none_d3c929cf0d7f9c8c
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM        1087653 img35.jpg                                                              
+
+
+    Directory: C:\Windows\Web\Wallpaper\Spotlight
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          23615 img50.jpg                                                              
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-s..wallpaper-spotlight_31bf3856ad364e35_10.0.26100.1_none_3eef7a85332a3051
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          23615 img50.jpg                                                              
+
+
+    Directory: C:\Windows\Microsoft.NET\FrameworkArm64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM             49 security_watermark.jpg                                                 
+
+
+    Directory: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM             49 security_watermark.jpg                                                 
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM             49 security_watermark.jpg                                                 
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM             49 security_watermark.jpg                                                 
+
+
+    Directory: C:\Windows\WinSxS\arm64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e75465b760b7f0
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM             49 security_watermark.jpg                                                 
+
+
+    Directory: C:\Windows\Microsoft.NET\FrameworkArm64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           8683 topGradRepeat.jpg                                                      
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           8683 topGradRepeat.jpg                                                      
+
+
+    Directory: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ASP.NETWebAdminFiles\Images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:44 AM           8683 topGradRepeat.jpg                                                      
+
+
+    Directory: C:\Windows\WinSxS\arm64_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_34e75465b760b7f0
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM           8683 topGradRepeat.jpg                                                      
+
+
+    Directory: C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15912.0_none_7c948bdecbdcdfb2
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM           8683 topGradRepeat.jpg                                                      
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:42 AM         433484 TouchKeyboardThemeDark000.jpg                                          
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.26100.1_none_800b7fb82c1b6bc9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:42 AM         433484 TouchKeyboardThemeDark000.jpg                                          
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         149335 TouchKeyboardThemeDark001.jpg                                          
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.26100.1_none_800b7fb82c1b6bc9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         149335 TouchKeyboardThemeDark001.jpg                                          
+-a----          4/1/2024  11:43 AM         216674 TouchKeyboardThemeDark002.jpg                                          
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         216674 TouchKeyboardThemeDark002.jpg                                          
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.26100.1_none_800b7fb82c1b6bc9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         122749 TouchKeyboardThemeDark003.jpg                                          
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         122749 TouchKeyboardThemeDark003.jpg                                          
+-a----          4/1/2024  11:43 AM         584174 TouchKeyboardThemeLight000.jpg                                         
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.26100.1_none_800b7fb82c1b6bc9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         584174 TouchKeyboardThemeLight000.jpg                                         
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         155595 TouchKeyboardThemeLight001.jpg                                         
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.26100.1_none_800b7fb82c1b6bc9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         155595 TouchKeyboardThemeLight001.jpg                                         
+-a----          4/1/2024  11:43 AM         241590 TouchKeyboardThemeLight002.jpg                                         
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         241590 TouchKeyboardThemeLight002.jpg                                         
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-t..ouchkeyboard-client_31bf3856ad364e35_10.0.26100.1_none_800b7fb82c1b6bc9
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         120795 TouchKeyboardThemeLight003.jpg                                         
+
+
+    Directory: C:\Windows\Web\touchkeyboard
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         120795 TouchKeyboardThemeLight003.jpg                                         
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.1_none_007a7c6d3720308f
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           4743 wmpnss_color120.jpg                                                    
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.5074_none_9f7aa17b7e73f06a
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           4743 wmpnss_color120.jpg                                                    
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.4202_none_9f5e2b477e8a4682
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           4743 wmpnss_color120.jpg                                                    
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.1_none_007a7c6d3720308f
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           1859 wmpnss_color32.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.5074_none_9f7aa17b7e73f06a
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           1859 wmpnss_color32.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.4202_none_9f5e2b477e8a4682
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           1859 wmpnss_color32.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.1_none_007a7c6d3720308f
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           2320 wmpnss_color48.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.5074_none_9f7aa17b7e73f06a
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           2320 wmpnss_color48.jpg                                                     
+
+
+    Directory: 
+    C:\Windows\WinSxS\arm64_microsoft-windows-wmpnss-service_31bf3856ad364e35_10.0.26100.4202_none_9f5e2b477e8a4682
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----         3/28/2024   3:52 PM           2320 wmpnss_color48.jpg                                                     
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.4202_none_fb0fc1ed2160ad9f\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         897999 xbox-acquisition-upsell.jpg                                            
+
+
+    Directory: 
+    C:\Windows\SystemApps\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         897999 xbox-acquisition-upsell.jpg                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.5074_none_fb2c3821214a5787\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         897999 xbox-acquisition-upsell.jpg                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb72592187b333\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM         897999 xbox-acquisition-upsell.jpg                                            
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.4202_none_fb0fc1ed2160ad9f\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          43226 xbox-inline-purchase-banner.jpg                                        
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb72592187b333\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          43226 xbox-inline-purchase-banner.jpg                                        
+
+
+    Directory: 
+    C:\Windows\SystemApps\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          43226 xbox-inline-purchase-banner.jpg                                        
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.5074_none_fb2c3821214a5787\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----          4/1/2024  11:43 AM          43226 xbox-inline-purchase-banner.jpg                                        
+
+
+    Directory: 
+    C:\Windows\SystemApps\MicrosoftWindows.Client.Photon_cw5n1h2txyewy\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----        10/16/2025   8:32 PM          43564 xbox-purchase-dialogue-banner-lotus.jpg                                
+
+
+    Directory: C:\Windows\WinSxS\arm64_userexperience-photon_31bf3856ad364e35_10.0.26100.6725_none_fadb72592187b333\Photo
+    n\Public\wsxpacks\Account\assets\assets\images
+
+
+Mode                 LastWriteTime         Length Name                                                                   
+----                 -------------         ------ ----                                                                   
+-a----        10/16/2025   8:32 PM          43564 xbox-purchase-dialogue-banner-lotus.jpg                                
+
+

@@ -1,0 +1,9 @@
+﻿DIR:
+Min: 1.9561 ms
+Max: 35.4953 ms
+Avg: 6.2303 ms
+
+PS:
+Min: 0.8587 ms
+Max: 17.8978 ms
+Avg: 2.86353 ms
